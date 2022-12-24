@@ -6,11 +6,11 @@ C is known for its efficiency, flexibility, and portability, making it a popular
 
 Here is an example of a simple "Hello, World!" program in C:
 
-`#include <stdio.h>
+'#include <stdio.h>
 
 int main() {
    printf("Hello, World!");
    return 0;
-}`
+}'
 
 C code is typically compiled, meaning that it is translated into machine code that can be executed on a computer. This allows C programs to be run on a variety of different platforms without requiring any changes to the code.
