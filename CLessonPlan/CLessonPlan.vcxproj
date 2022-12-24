@@ -129,6 +129,9 @@
   <ItemGroup>
     <None Include="Lesson_01\les_01.md" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Lesson_01\hello.c" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
